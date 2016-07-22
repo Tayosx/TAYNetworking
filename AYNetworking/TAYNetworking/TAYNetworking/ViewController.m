@@ -26,7 +26,7 @@
 }
 
 - (void)log {
-    NSLog(@"test,tttttt");
+    NSLog(@"test,tttttt，测试");
 }
 
 @end
